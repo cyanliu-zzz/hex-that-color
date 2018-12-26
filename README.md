@@ -15,3 +15,4 @@ Loosely based off of [Andrew Yang's what the hex](http://yizzle.com/whatthehex/)
 - [ ] Dynamic updates for colors (i.e. as you type in a hex value, your "answer" to the "question" changes then and there)
 - [ ] uh
 - [ ] Levels? 
+- [ ] Achievements/badges (see also: [http://bada55.io/])
